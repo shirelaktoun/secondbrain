@@ -1,8 +1,9 @@
 ---
-title: Your first seed
+title: Greetings
 ---
 
 ### Welcome!
+Let me show you how I would do a [[One-time Pi setup]].
 
 This is your first note. You'll find it in the [`notes/`](https://github.com/maximevaillancourt/digital-garden-jekyll-template/tree/master/_notes) directory. 
 

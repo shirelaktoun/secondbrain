@@ -4,6 +4,6 @@ title: About
 permalink: /about
 ---
 
-*This is an about page.*
+*About this web site*
 
-Feel free to tell the world about what you love! 😍
+This is my website to display my thoughts and ideas, refined through the process of Zettelkasten ! 😍
