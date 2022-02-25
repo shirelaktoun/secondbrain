@@ -1,5 +1,5 @@
 ---
-Title: One-time Pi setup 
+title: One-time Pi setup 
 ---
 ## One-time Pi setup
 
