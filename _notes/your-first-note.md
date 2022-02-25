@@ -1,9 +1,8 @@
 ---
-title: Greetings
+title: The first spark
 ---
 
 ### Welcome!
-Let me show you how I would do a [[One-time Pi setup]].
 
 This is your first note. You'll find it in the [`notes/`](https://github.com/maximevaillancourt/digital-garden-jekyll-template/tree/master/_notes) directory. 
 
@@ -26,14 +25,6 @@ Of course, you can also link to external websites, like this: [this is a link to
 
 [^1]: This is a footnote. For more information about using footnotes, check out the [Markdown Guide](https://www.markdownguide.org/extended-syntax/#footnotes).
 [^2]: This is another footnote that links to the note about [[cats]]. You may also point to [[notes that do not exist]] if you wish.
-
-### Tweet embedding
-
-Note: This behavior is disabled by default for privacy reasons. See "Site configuration" section below to enable it.
-
-You may include a tweet URL on its own line (like below), and it would be replaced with an official Twitter embed if the site configuration demands it.
-
-https://twitter.com/jack/status/20
 
 ### Site configuration
 
