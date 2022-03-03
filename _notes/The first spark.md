@@ -1,15 +1,18 @@
 ---
-Ttile: What I can do to ...
+title: The first spark
 ---
 
-# What I can do
+## I am looking for a spark!
 
-## Generate Income
-### Investment
-	- Property
-	- Financial Market
-### Internet
-	- Affiliate Marketing
-
-#generate-income | #learn
+### Basically speaking, I am looking for ways to:
+- ##### Generate income
+	- Self-employment
+	- Other
+- ##### Self-improvement
+	- Learn
+		- [[Property]] Investment/Development
+		- Financial Markets - [[Trading]]
+		- [[Google Ads]]
+		- [[Affiliated Marketing]]
+		- [[Bouzouki]]
 
